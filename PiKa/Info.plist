@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need microphone access to record your voice for AI avatar creation.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We use speech recognition to analyze and match your voice input.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We need camera access to capture your selfie.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need access to your photos to select your avatar image.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Telka-Extended-Bold.otf</string>
+		<string>Telka-Extended-Medium.otf</string>
+		<string>Telka-Extended-Regular.otf</string>
+		<string>Telka-Extended-Light.otf</string>
+		<string>Telka-Extended-Super.otf</string>
+	</array>
+</dict>
+</plist>

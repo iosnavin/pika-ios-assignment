@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  PiKa
+
+  Created by Naveen on 25/04/26.
+  
+*/
+
+"login_title" = "YOUR AI SELF IS\nWAITING";
+"login_subtitle" = "Sign up or log in below";
+"phone_placeholder" = "Phone number";
+"continue" = "Continue";
+"or_continue" = "Or continue with";
